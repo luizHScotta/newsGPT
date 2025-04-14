@@ -15,7 +15,9 @@ PALAVRAS_CHAVE = [
     r"\bia\b",
     r"\bmachine learning\b",
     r"\baprendizado de máquina\b",
-    r"\bhackers\b"
+    r"\bhackers\b",
+    r"\bmusk\b",
+    r"\btrump\b"
 ]
 
 def interpretar_data_humanizada(texto):
